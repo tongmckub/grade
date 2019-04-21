@@ -45,5 +45,6 @@ return [
         ],
         */
     ],
+	'name'=>'grade B',
     'params' => $params,
 ];
